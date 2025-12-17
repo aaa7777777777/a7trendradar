@@ -1,4 +1,4 @@
-FROM hub-mirror.c.163.com/library/python:3.10-slim
+FROM docker.mirrors.ustc.edu.cn/library/python:3.10-slim
 
 WORKDIR /app
 
