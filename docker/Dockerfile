@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM hub-mirror.c.163.com/library/python:3.10-slim
 
 WORKDIR /app
 
